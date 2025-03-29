@@ -120,7 +120,7 @@
             // btnsubmit
             // 
             btnsubmit.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnsubmit.Location = new Point(355, 194);
+            btnsubmit.Location = new Point(358, 172);
             btnsubmit.Name = "btnsubmit";
             btnsubmit.Size = new Size(180, 51);
             btnsubmit.TabIndex = 12;
